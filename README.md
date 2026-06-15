@@ -110,4 +110,4 @@ This project demonstrates practical experience in full-stack web development, da
 
 ---
 
-🛍️ *Thank you for visiting Trendify!*
+🛍️ Happy Shopping, Happy Customer!
