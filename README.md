@@ -89,14 +89,6 @@ The platform supports multiple fashion categories including:
 
 ---
 
-## 🎓 Academic Information
-
-- **Module:** IT1100 – Internet and Web Technologies  
-- **Program:** BSc (Hons) in Information Technology  
-- **Institution:** Sri Lanka Institute of Information Technology (SLIIT)  
-- **Year:** 1st Year – Semester 2  
-
----
 
 ## 📄 License
 
